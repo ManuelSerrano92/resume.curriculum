@@ -24,6 +24,24 @@ Hi, I'm David Rodríguez and I am an Industrial Engineer interested in help you 
 
 ## Other Relevant Experience
 
+**Project Assistant** at Fundación Caminos de Vida _(Sept 2021 - Dec 2021)_ <br>
+No-code platform that enables professionals to build interactive applications.
+  - Develop the cronograms in Ms Project y Gantt Project
+  - Estructurar las etapas del proyecto y la programación de actividades.
+  - **_Technologies used:_** Ms Project, Gant Project.
+<br><br>
+
+**Building Property Manager** at Edificio Karla Zulima _(May 2015 - Dec 2021)_ <br>
+Administration role with TI implementation experience.
+  - Process integration to Information Tecnology
+  - Common property administration, leasing and inmobiliary services.
+  - Document and contract management.
+  - Remodeling and maintenance planning.
+  - Marketing and Customer's Relationships.
+  - **_Technologies used:_** Microsoft 365, Social Networks.
+<br><br>
+
+
 ## Languages
 
 English: B2 Intermediate-Advanced.
