@@ -16,6 +16,7 @@ Hi, I'm David Rodríguez and I am an Industrial Engineer interested in help you 
   - **_Technologies used:_** HTML, CSS, Javascript, PythonAnywhere, SQL Lite3.
   
 2) Development of a PaaS for INTERASEO E.S.P. to manage the external customer billing, and the internal customer pricing of the services and measurement registration, During MisionTIC 2022's Context. [PLATAFORMA INTERASEO](https://interaseo.herokuapp.com/)
+  **_Functions_**
   - Responsible for project office and software documentation and also the SCRUM Planning Artifacts.
   - SCRUM Methodology implementation assistance to the Project.
   - To develop the Product Goal and Create the Product Backlog Items list
@@ -25,9 +26,10 @@ Hi, I'm David Rodríguez and I am an Industrial Engineer interested in help you 
 ## Other Relevant Experience
 
 **Project Assistant** at Fundación Caminos de Vida _(Sept 2021 - Dec 2021)_ <br>
-No-code platform that enables professionals to build interactive applications.
+To assist in project planning and Planning Artifact creation.
+**_Functions_**
   - Develop the cronograms in Ms Project y Gantt Project
-  - Estructurar las etapas del proyecto y la programación de actividades.
+  - To give structure to proyect stages and task planning.
   - **_Technologies used:_** Ms Project, Gant Project.
 <br><br>
 
