@@ -1,4 +1,4 @@
-#D. Rodríguez - Resumé
+D. Rodríguez - Resumé
 
 Hi, I'm David Rodríguez and I am an Industrial Engineer interested in help you to develop the best quality's posible in your software or web apps with my habilities in project managing and representing the stakeholder's interests as a Product Owner or any other developer Role.
 
